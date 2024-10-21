@@ -27,7 +27,6 @@ int main()
     try
     {
         armstrongFinder(no);
-
         cout << "No is Armstrong: " << no;
     }
     catch (const char *msg)

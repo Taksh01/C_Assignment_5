@@ -18,7 +18,6 @@ int main()
     try
     {
         oddFinder(no);
-
         cout << "No is Even: " << no;
     }
     catch (const char *msg)
